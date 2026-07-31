@@ -7,7 +7,7 @@
 
 아래 링크를 통해 Chrome 또는 Edge 브라우저에서 바로 실행할 수 있습니다.
 
-- [JupyterLite Lab 열기](https://jwsong0620.github.io/260818_PHMKorea_CodeExample/lab/index.html)
+- [JupyterLite Lab 열기](https://jwsong0620.github.io/260818/lab/index.html)
 
 ## 노트북 순서
 
