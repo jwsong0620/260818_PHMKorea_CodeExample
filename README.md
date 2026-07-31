@@ -9,7 +9,7 @@
 
 - [JupyterLite Lab 열기](https://jwsong0620.github.io/260818/lab/index.html)
 
-## 노트북 순서
+## 예제 코드 순서
 
 1. `0_DataReview.ipynb`: 데이터 읽기, 요약, 파형 확인
 2. `1_Prototype.ipynb`: 10AWG/24AWG AutoEncoder prototype
