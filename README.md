@@ -10,10 +10,10 @@ GitHub Pages 배포 후 아래 링크에서 브라우저로 바로 실행할 수
 
 ## 노트북 순서
 
-1. `Part2_0_DataReview.ipynb`: 데이터 읽기, 요약, 파형 확인
-2. `Part2_1_Prototype.ipynb`: 10AWG/24AWG AutoEncoder prototype
-3. `Part2_2_FieldDataPrototype.ipynb`: 날짜별 현장 데이터 AutoEncoder 적용
-4. `Part2_3_DriftPrototype.ipynb`: Drift 보정 기반 Reconstruction Error 확인
+1. `0_DataReview.ipynb`: 데이터 읽기, 요약, 파형 확인
+2. `1_Prototype.ipynb`: 10AWG/24AWG AutoEncoder prototype
+3. `2_FieldDataPrototype.ipynb`: 날짜별 현장 데이터 AutoEncoder 적용
+4. `3_DriftPrototype.ipynb`: Drift 보정 기반 Reconstruction Error 확인
 
 ## 데이터
 
